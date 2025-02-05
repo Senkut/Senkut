@@ -10,4 +10,3 @@
 - 😄 I like the videogames
 
 The One Piece is real
-![alt text](images.png)
