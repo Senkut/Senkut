@@ -81,4 +81,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SenkuT)](https://git.io/streak-stats)
+
+---
+
 > "Programmers are wizards who write spells that run on logic." – Probably you.
