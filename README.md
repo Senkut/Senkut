@@ -1,6 +1,7 @@
 # Hey, I'm Luis
 
-🎮 Game Developer | 🛠️ Always Building and Improving  
+🎮 Game Developer | 🛠️ Always Building and Improving
+
 ![Profile views](https://komarev.com/ghpvc/?username=SenkuT&color=blue&style=flat-square)
 
 ---
