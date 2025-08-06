@@ -58,11 +58,11 @@
 
 ## 🎯 2025 Goals
 
-- ✅ Publicar 2 juegos en Itch.io  
-- 🚧 Terminar prototipo del metroidvania educativo  
-- 🌍 Participar en 3 Game Jams  
-- 📚 Mejorar animaciones y shaders en Godot 4  
-- ✨ Aprender shaders visuales y efectos VFX simples
+-✅ Publish 2 games on Itch.io
+-🚧 Finish prototype of educational metroidvania
+-🌍 Participate in 3 game jams
+-📚 Improve animations and shaders in Godot 4
+-✨ Learn visual shaders and simple VFX effects
 
 ---
 
