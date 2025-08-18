@@ -59,7 +59,7 @@
 ## 🎯 2025 Goals
 
 -✅ Publish 2 games on Itch.io
--🚧 Finish prototype of educational metroidvania
+-🚧 Finish prototype of sumonimals
 -🌍 Participate in 3 game jams
 -📚 Improve animations and shaders in Godot 4
 -✨ Learn visual shaders and simple VFX effects
@@ -70,7 +70,7 @@
 
 - 📚 Studying Systems Engineering  
 - 💡 Working on: Personal Project  
-- 🧠 Learning: Algorithms, advanced Godot, applied chemistry in games  
+- 🧠 Learning: Algorithms, advanced Godot, prototypes in unity. 
 
 ---
 
