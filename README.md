@@ -2,10 +2,6 @@
 
 🎮 Game Developer | 🛠️ Always Building and Improving
 
-![Profile views](https://komarev.com/ghpvc/?username=SenkuT&color=blue&style=flat-square)
-
----
-
 ## 🧰 Skills
 
 ###  Languages & Tools
@@ -13,7 +9,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🎮 Game Engines
 
@@ -56,7 +51,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 -✅ Publish 2 games on Itch.io
 -🚧 Finish prototype of sumonimals
