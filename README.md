@@ -29,35 +29,28 @@
 
 ## 🚀 Featured Projects
 
-- 🐸 **Frog-Ninja**  
+-  **Frog-Ninja**  
   A 2D platformer designed to teach English vocabulary to kids through interactive gameplay. Made with Godot.  
   _"Move with A/D and jump with Space — fun and learning combined!"_
 
-- 🥔 **Pota-to Win** *(Mini Jam Submission)*  
+-  **Pota-to Win** *(Mini Jam Submission)*  
   A game where you control a potato climbing a mountain to find its crown. Avoid worms and reach the top!  
   Developed in under 72 hours with a small team for Mini Jam 166: **Earth**.
 
-- 🐉 **Educational Endless Runner**  
+-  **LeePlay**
   A 3D Godot game combining critical reading with dynamic action and learning mechanics.
 
-- ⚗️ **Kinetic Study: Baking Soda + Vinegar**  
+-  **Kinetic Study: Baking Soda + Vinegar**  
   A JavaFX + Docusaurus educational app that explains the kinetic behavior of a classic reaction step-by-step.
 
----
-
-## 🎮 Now Playing
-
-![Currently Working On](https://img.shields.io/badge/Working_on-RPGgame_%F0%9F%90%89-00bfff?style=for-the-badge)
-
----
 
 ## 🎯 2026 Goals
 
--✅ Publish 2 games on Itch.io
--🚧 Finish prototype of sumonimals
--🌍 Participate in 3 game jams
--📚 Improve animations and shaders in Godot 4
--✨ Learn visual shaders and simple VFX effects
+-  Publish 2 games on Itch.io
+- Finish prototype of sumonimals
+- Participate in 3 game jams
+- Improve animations and shaders in Godot 4
+- Learn visual shaders and simple VFX effects
 
 ---
 
@@ -74,10 +67,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/luis-gabriel-cely-ni%C3%B1o-056642365/)  
 [![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itch-dot-io)](https://linkpenguin.itch.io/)
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SenkuT)](https://git.io/streak-stats)
-
----
 
 > "Programmers are wizards who write spells that run on logic." – Probably you.
