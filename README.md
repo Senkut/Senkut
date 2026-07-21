@@ -7,7 +7,6 @@
 ###  Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎮 Game Engines
@@ -40,14 +39,17 @@
 -  **LeePlay**
   A 3D Godot game combining critical reading with dynamic action and learning mechanics.
 
+-  **ArmaSpin** *(Very Serious Game Jam Submission)*  
+  A game where you control a armadillo and your objetive it's get 2 very serious objets!  
+  Developed only in a week and i develop complety alone :) the theme is:  **Spin To Win**.
+
 -  **Kinetic Study: Baking Soda + Vinegar**  
   A JavaFX + Docusaurus educational app that explains the kinetic behavior of a classic reaction step-by-step.
 
 
 ## 🎯 2026 Goals
 
--  Publish 2 games on Itch.io
-- Finish prototype of sumonimals
+- Publish 2 games on Itch.io
 - Participate in 3 game jams
 - Improve animations and shaders in Godot 4
 - Learn visual shaders and simple VFX effects
@@ -65,7 +67,7 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/luis-gabriel-cely-ni%C3%B1o-056642365/)  
-[![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itch-dot-io)](https://linkpenguin.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-red?logo=itch-dot-io)](https://senkut.itch.io/)
 
 
-> "Programmers are wizards who write spells that run on logic." – Probably you.
+> "Programmers are wizards who write spells that run on logic."
